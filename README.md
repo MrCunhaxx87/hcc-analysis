@@ -24,6 +24,14 @@ pipeline capable of determining the survivability of patients at 1 year after di
 - Python (version 3.7 or higher recommended)
 - `pip` (Python package installer)
 
+### Python Libraries:
+- Scikt-Learn - `pip install -U scikit-learn`
+- Matplotlib - `pip install matplotlib`
+- seaborn - `pip install seaborn`
+- pandas - `pip install pandas`
+- numpy - `pip install numpy`
+
+
 ## Setting Up the Environment
 Setting Up the Environment
 Creating a Virtual Environment (Recommended)
